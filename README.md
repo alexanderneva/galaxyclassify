@@ -2,11 +2,11 @@
 
 ## Goal
 
-- Classify galaxies from [sloan digitial sky survery](https://www.sdss.org/) or [Galaxy Zoo](https://galaxyzoo.org)
+- Classify galaxies from [Sloan digitial Sky Survery](https://www.sdss.org/) or [Galaxy Zoo](https://galaxyzoo.org)
 - Use Tensorflow, Sci-Kit Learn and PYMC to take different approaches to the data.
 
 1. Clone repo
-2. Run 
+2. Run ( using [uv](https://docs.astral.sh/uv/) for package management.
 ```{bash}
 # grab dependencies
 uv sync
