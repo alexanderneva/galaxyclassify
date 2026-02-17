@@ -1,4 +1,4 @@
-#Galaxy Classification Project
+# Galaxy Classification Project
 
 ## Goal
 
