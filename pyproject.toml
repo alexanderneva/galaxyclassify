@@ -1,0 +1,23 @@
+[project]
+name = "galaxy"
+version = "0.1.0"
+description = "Galaxy classification"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "arviz>=0.23.4",
+    "astropy>=7.2.0",
+    "matplotlib>=3.10.8",
+    "numpy>=2.4.2",
+    "pandas>=3.0.0",
+    "pypmc>=1.2.5",
+    "sns>=0.1",
+    "tensorflow[and-cuda]>=2.20.0",
+]
+
+[dependency-groups]
+dev = [
+    "basedpyright>=1.38.0",
+    "pandas-stubs>=3.0.0.260204",
+    "scikit-learn-stubs>=0.0.3",
+]
