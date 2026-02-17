@@ -6,7 +6,11 @@
 - Use Tensorflow, Sci-Kit Learn and PYMC to take different approaches to the data.
 
 1. Clone repo
-2. Run ( using [uv](https://docs.astral.sh/uv/) for package management).
+```{bash}
+git clone https://github.com/alexanderneva/galaxyclassify
+cd galaxyclassify
+```
+3. Run ( using [uv](https://docs.astral.sh/uv/) for package management).
 ```{bash}
 # grab dependencies
 uv sync
