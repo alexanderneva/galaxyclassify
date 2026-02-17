@@ -22,7 +22,7 @@ pip install -r requirements.txt
 
 # Ideas to do
 
-- [] **Data Preprocessing**: Applying image filters with `tf.image`, `scipy.ndimage` `ImageFilter`
+- [ ] **Data Preprocessing**: Applying image filters with `tf.image`, `scipy.ndimage` `ImageFilter`
 - [ ] **Live SDSS Data Fetching**: Implement [`astroquery`](https://astroquery.readthedocs.io/) integration to pull spectra and images directly from [Sloan Digital Sky Survey (SDSS)](https://www.sdss.org/) SkyServer in real-time rather than using local files
 - [ ] **CNN Development**: Develop and mprove CNN architecture
 - [ ] **PyMC Development**: Enhance [PyMC](https://www.pymc.io/) Bayesian models for improved uncertainty quantification
