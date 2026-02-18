@@ -10,7 +10,7 @@
 git clone https://github.com/alexanderneva/galaxyclassify
 cd galaxyclassify
 ```
-3. Run ( using [uv](https://docs.astral.sh/uv/) for package management).
+2. Run ( using [uv](https://docs.astral.sh/uv/) for package management).
 ```{bash}
 # grab dependencies
 uv sync
